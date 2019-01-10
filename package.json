@@ -1,7 +1,7 @@
 {
   "name": "clize",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "run your exported modules from the CLI",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "bin": {
@@ -10,9 +10,9 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ['module', 'export', 'run', 'cli', 'terminal'],
+  "author": "Kevin Jullien",
+  "license": "GPLv3",
   "devDependencies": {
     "@types/minimist": "^1.2.0",
     "@types/node": "^10.12.18",

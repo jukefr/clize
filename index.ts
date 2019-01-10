@@ -12,7 +12,7 @@ const file = args['_'][0];
 
 args['_'].shift()
 
-const target = relative(start, file)
+const target = './' + relative(start, file)
 
 const proc = spawn(
   'node',
