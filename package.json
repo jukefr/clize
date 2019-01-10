@@ -10,7 +10,7 @@
   "scripts": {
     "build": "tsc"
   },
-  "keywords": ['module', 'export', 'run', 'cli', 'terminal'],
+  "keywords": ["module", "export", "run", "cli", "terminal"],
   "author": "Kevin Jullien",
   "license": "GPLv3",
   "devDependencies": {
