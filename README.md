@@ -1,6 +1,10 @@
 # clize
 
 run any exported object directly from the CLI
+- relative/absolute file path
+- named module support
+- as many arguments as needed
+- automatic await of promise 😎
 
 ## Install
 ```bash
